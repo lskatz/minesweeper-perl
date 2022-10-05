@@ -56,4 +56,4 @@ Still need to add flags and still need to make a "win" scenario
     4       0       0       -       -       -
     5       0       0       -       _       -
     minesweeper.pl: You lost!
-    scripts/minesweeper.pl --cheat --cols 5 --rows 5 --mines 5
+
