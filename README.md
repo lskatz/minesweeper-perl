@@ -11,6 +11,7 @@ Making a minesweeper game in perl
       --mines  10
       --help   This useful help menu
 
+# Example
 
     perl scripts/minesweeper.pl --cheat --cols 5 --rows 5 --mines 5
 
